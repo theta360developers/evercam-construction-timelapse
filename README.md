@@ -2,7 +2,7 @@
 
 ![Evercam Free Plug-in](release/1.png)
 
-Personal project from the team at [Evercam](https://evercam.io/)
+Open source community project from the team at [Evercam](https://evercam.io/)
 
 Take up to 4,500 timelapse pictures with your RICOH THETA. Enables switching between timelapse and single still image mode without the use of a mobile phone.
 
