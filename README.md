@@ -1,4 +1,4 @@
-# Evercam's Free Construction Timelapse Plug-in For RICOH THETA
+# Evercam's Open Source Construction Timelapse Plug-in For RICOH THETA
 
 ![Evercam Free Plug-in](release/1.png)
 
